@@ -10,7 +10,7 @@ Current available implementations:
 - Exponention
 - DSU
 - Segment Tree
-- leetcode.com and cses.fi problems
+- [leetcode.com](leetcode.com) and [cses.fi](cses.fi) problems
 
 You can watch and follow me on my [Youtube Channel](https://www.youtube.com/@JavaIsHere).
 
